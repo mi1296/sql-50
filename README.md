@@ -1,20 +1,5 @@
 ## About
 
-<div align="center">
-  <img src="https://github.com/mi1296/30-days-of-pandas/blob/main/30-days-of-pandas-logo.png" alt="30 Days of Pandas Logo">
-</div>
-
-I successfully completed the "30 Days of Pandas" study plan on [Leetcode](https://leetcode.com/studyplan/30-days-of-pandas/), during the month of August 2023, and I'm excited to share my experience. This comprehensive plan covered essential topics commonly asked in pandas interviews. Prior to diving into this plan, I ensured that I had a solid foundation in **Python**, including knowledge of **syntax**, **data types**, **conditional statements**, **loops**, **functions**, and **lists**.
-
-Over the course of 30 days, I embarked on a journey that started with basic **data operations**, such as **handling missing values**, and gradually progressed to more intermediate concepts, including conducting **intricate statistical calculations**. This study plan provided me with a deep understanding of pandas, a powerful library for **data manipulation** and analysis in Python.
-
-Throughout the plan, I tackled a variety of hands-on exercises, which not only reinforced my pandas skills but also allowed me to apply my newfound knowledge to real-world scenarios. By the end of the 30 days, I felt confident in my ability to efficiently use pandas to **clean, transform, and analyze data**, making it a valuable addition to my data analytics toolkit.
-
-I'm now well-prepared to tackle data analysis tasks with confidence and proficiency. This study plan was an invaluable investment in my data analytics journey, and I look forward to applying these skills to real-world projects.
-
-<div align="center">
-  <img src="https://github.com/mi1296/30-days-of-pandas/blob/main/30-days-of-Pandas-badge.gif" alt="30 Days of Pandas Badge">
-</div>
 
 ## List of Exercises
 ### Select
