@@ -7,6 +7,10 @@ Best for 1 month of prep time
   <img src="https://github.com/mi1296/sql-50/blob/main/Top_SQL_50.gif" alt="Top 50 SQL Badge">
 </div>
 
+<div align="center">
+  <img src="https://github.com/mi1296/30-days-of-pandas/blob/main/30-days-of-Pandas-badge.gif" alt="30 Days of Pandas Badge">
+</div>
+
 ## List of Exercises
 ### Select
 * [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50)
