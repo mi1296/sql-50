@@ -1,14 +1,14 @@
 ## About
+<div align="center">
+  <img src="https://github.com/mi1296/sql-50/blob/main/top-50-sql.png" alt="Top 50 SQL">
+</div>
+
 Basic to intermediate SQL topics \
 50 essential SQL questions \
 Best for 1 month of prep time 
 
-<div align="left">
+<div align="center">
   <img src="https://github.com/mi1296/sql-50/blob/main/Top_SQL_50.gif" alt="Top 50 SQL Badge">
-</div>
-
-<div align="right">
-  <img src="https://github.com/mi1296/sql-50/blob/main/top-50-sql.png" alt="Top 50 SQL">
 </div>
 
 ## List of Exercises
