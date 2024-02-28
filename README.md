@@ -3,12 +3,12 @@ Basic to intermediate SQL topics \
 50 essential SQL questions \
 Best for 1 month of prep time 
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/mi1296/sql-50/blob/main/Top_SQL_50.gif" alt="Top 50 SQL Badge">
 </div>
 
-<div align="center">
-  <img src="https://github.com/mi1296/30-days-of-pandas/blob/main/30-days-of-Pandas-badge.gif" alt="30 Days of Pandas Badge">
+<div align="right">
+  <img src="https://github.com/mi1296/sql-50/blob/main/top-50-sql.png" alt="Top 50 SQL">
 </div>
 
 ## List of Exercises
