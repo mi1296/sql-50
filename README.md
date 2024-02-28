@@ -3,6 +3,10 @@ Basic to intermediate SQL topics \
 50 essential SQL questions \
 Best for 1 month of prep time 
 
+<div align="center">
+  <img src="https://github.com/mi1296/sql-50/blob/main/Top_SQL_50.gif" alt="Top 50 SQL Badge">
+</div>
+
 ## List of Exercises
 ### Select
 * [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50)
